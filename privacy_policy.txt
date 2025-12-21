@@ -1,0 +1,43 @@
+Informativa sulla Privacy (Privacy Policy)
+Ultimo aggiornamento: 21/12/2025
+La presente Informativa sulla privacy descrive come vengono gestite le informazioni all'interno dell'applicazione Snow Cat Run (di seguito l' "Applicazione").
+1. Titolarità del Trattamento
+L'Applicazione è sviluppata e gestita da:
+* Nome/Ragione Sociale: Rossato Lorenzo, Matteo Franzosi
+* Contatto email: pixelpeakmobilegames@gmail.com
+
+2. Tipologia di Dati Raccolti
+La nostra filosofia è la "Privacy by Design".
+* Dati Identificativi: L'Applicazione NON richiede, non raccoglie e non memorizza dati personali identificativi come nome, indirizzo email, numero di telefono o contatti.
+* Dati Tecnici: Potrebbero essere raccolti automaticamente dati tecnici anonimi necessari al funzionamento del gioco o forniti dai servizi di terze parti (es. Google Play Services), come l'identificativo del dispositivo (ID univoco), il modello del device e la versione del sistema operativo.
+
+3. Pagamenti in-app (In-App Purchases)
+L'Applicazione include la possibilità di effettuare acquisti.
+* Tutte le transazioni sono gestite esclusivamente tramite la piattaforma Google Play Billing.
+* Noi non abbiamo accesso ai tuoi dati della carta di credito o informazioni bancarie. Tali dati sono trattati unicamente da Google in conformità con la sua Privacy Policy.
+
+4. Servizi di Terze Parti
+Per fornire le funzionalità di gioco e i pagamenti, l'Applicazione utilizza i seguenti servizi che possono raccogliere dati in modo autonomo:
+* Google Play Services: Per i salvataggi in cloud, i traguardi (achievements) e le classifiche.
+* Google Play Billing: Per la gestione sicura degli acquisti.
+Ti invitiamo a consultare la Privacy Policy di Google per maggiori dettagli.
+
+5. Privacy dei Minori
+L'Applicazione è progettata per un pubblico dai 10 anni in su.
+* Non richiediamo intenzionalmente dati personali a minori di 13 anni (o 16, a seconda della giurisdizione locale).
+* Poiché l'app non prevede registrazione o inserimento di dati, non viene creato alcun profilo personale dell'utente minore.
+
+6. Conservazione dei Dati
+Poiché non raccogliamo dati personali, non conserviamo informazioni sensibili sui nostri server. Eventuali dati di gioco (punteggi, oggetti acquistati) sono salvati localmente sul dispositivo o tramite il servizio Google Play Games associato al tuo account Google.
+
+7. Diritti dell'Utente (GDPR)
+Anche se non raccogliamo dati identificativi, ai sensi del GDPR (Regolamento UE 2016/679), hai il diritto di:
+* Richiedere informazioni su eventuali dati tecnici raccolti.
+* Richiedere la cancellazione dei dati salvati localmente (disinstallando l'app).
+* Opporsi al trattamento per scopi legittimi.
+
+8. Modifiche alla presente Informativa
+Ci riserviamo il diritto di aggiornare questa Privacy Policy periodicamente. Qualsiasi modifica sarà pubblicata in questa pagina e, se rilevante, notificata all'interno dell'Applicazione.
+
+Contatti
+Per domande o chiarimenti sulla privacy, puoi contattarci all'indirizzo: pixelpeakmobilegames@gmail.com
